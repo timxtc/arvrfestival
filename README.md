@@ -1,2 +1,0 @@
-# arvrfestival
-ARVR Festival Page

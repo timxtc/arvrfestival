@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.arvrfestival.com/index.html</loc>
-    <lastmod>2018-03-24</lastmod>
+    <lastmod>2018-04-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://www.arvrfestival.com/images/arvr%20festival%20event%20poster.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arvrfestival.com/images/ptc_new_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arvrfestival.com/images/spark-logo-round.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arvrfestival.com/images/buarvr_terrierlogo_realfinal_higherres.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arvrfestival.com/images/digital_bu-innoweek18-23%20(cropped0.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.arvrfestival.com/images/facebook.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arvrfestival.com/images/wayfair_logo_with_tagline.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arvrfestival.com/images/arvr%20festival%20event%20poster402x202.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.arvrfestival.com/images/arvr%20festival%20event%20poster325x163.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
