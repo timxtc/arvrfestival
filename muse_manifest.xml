@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.arvrfestival.com" resolutions="1x" timestamp="1522566883408">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.arvrfestival.com" resolutions="1x" timestamp="1523612811971">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4254394300" ref="index"/>
+    <file name="master_a-master.css" crc="4021800681" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="3927743780" ref="index"/>
-    <file name="index.css" crc="10420328" ref="index"/>
-    <file name="nomq_index.css" crc="4069837181" ref="index"/>
+    <file name="index.css" crc="511364722" ref="index"/>
+    <file name="nomq_index.css" crc="4234827007" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -96,5 +96,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4156065385" seo="true" mt="1522566580873" redirect="true"/>
+  <file name="index.html" crc="159078976" seo="true" mt="1523612678162" redirect="true"/>
 </manifest>
