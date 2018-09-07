@@ -1,3 +1,3 @@
 # arvrfestival
 ARVR Festival Page
-wwww.arvrfestival.com
+www.arvrfestival.com
